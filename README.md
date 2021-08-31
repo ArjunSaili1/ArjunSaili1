@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun Saili</h1>
-<h3 align="center">An independent and passionate Web Developer from Toronto</h3>
+<h3 align="center">An independent and passionate Web Developer from Hamilton</h3>
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
