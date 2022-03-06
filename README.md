@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [The Odin Project](https://www.theodinproject.com/)
 
-- 🌱 I’m currently learning **JavaScript, HTML & CSS**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **Mynd Stability - A Procrastination Prevention Application**
 
