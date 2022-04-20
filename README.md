@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Firebase, Custom React Hooks & Framer Motion Animations**
 
-- 🏫 I'm attending [The University of Toronto Mississauga](The University of Toronto Mississauga)
+- 🏫 I'm attending The University of Toronto Mississauga 
 
 - 💬 Ask me about **The Odin Project**
 
