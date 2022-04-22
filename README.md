@@ -8,13 +8,13 @@
 
 - 🌱 I’m currently learning **Firebase, Custom React Hooks & Framer Motion Animations**
 
-- 🏫 I'm attending The University of Toronto Mississauga 
+- 🏫 I'm attending [The University of Toronto Mississauga](https://www.utm.utoronto.ca/iccit/technology-coding-society-major-tcs)
 
-- 💬 Ask me about **The Odin Project**
+- 💬 Ask me about [**The Odin Project**](theodinproject.com)
 
 - 📫 How to reach me **arjun7.saili@gmail.com**
 
-- ⚡ Fun fact **I produce music! Check out Astra Productions on Spotify.**
+- ⚡ Fun fact **I produce music! Check out [Astra Productions on Spotify](https://open.spotify.com/artist/1OGUvUFNtSBesGNM5j9VSp).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
