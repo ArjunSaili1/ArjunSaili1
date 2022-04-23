@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! I'm Arjun</h1>
 <h3 align="center">I love making things and teaching myself how to make things.</h3>
-<h3 align="center">Especially when those things are websites :)</h3>
+<h3 align="center">Especially when those things are web apps :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsaili1&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaili1" /> </p>
 
