@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsaili1&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaili1" /> </p>
 
-- 🔭 I’m currently working on [Birdhouse - an simple airbnb clone](https://github.com/ArjunSaili1/airbnb-clone)
+- 🔭 I’m currently working on learning advanced HTML/CSS (SCSS, SASS, Bootstrap, Tailwind, etc.)
 
 - 🌱 I’m currently learning **Firebase, Custom React Hooks & Framer Motion Animations**
 
