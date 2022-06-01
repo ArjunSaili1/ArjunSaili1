@@ -1,18 +1,21 @@
-<h1 align="center">Hey there! I'm Arjun</h1>
-<h3 align="center">I love making things and teaching myself how to make things.</h3>
-<h3 align="center">Especially when those things are web apps :)</h3>
+<img src="https://user-images.githubusercontent.com/66842156/171411759-ec5c879e-108a-41d2-8fae-f91c13eb88da.jpg"/>
+
+<h1>Arjun Saili</h1>
+<h3>About</h3>
+<p> I'm a web developer whose been self teaching myself programming since May 2021 using <a href=https://www.theodinproject.com/>The Odin Project curriculum</a>. I'm currently also pursing a Honour's Bachelor of Arts with a double major in Technology, Coding, Society and Communications, Culture and Information Technology with a minor in Computer Science <i>(I know that's quite a long program name!)</i>. I've honed my skills in front end development to create many projects using the React JavaScript framework and I'm currently learning Backend development using the Node.js Express framework and the MongoDB database. I'm also contributing towards bettering <a href=https://github.com/TheOdinProject/curriculum>The Odin Project curriculum on GitHub</a>.
+
+<h3>I'm currently working on...</h3>
+<a href="https://github.com/ArjunSaili1/mini-message-board">Mini Message Board - a project to practice Express and EJS</a>
+
+<h3>My Favourite Projects</h3>
+
+- [Birdhouse - an AirBnB clone](https://github.com/ArjunSaili1/airbnb-clone)
+- [Find Em' - a Where's Waldo style photo tagging app](https://github.com/ArjunSaili1/photo-tagging-app)
+- [Reel'd - a mock movie shopping site](https://github.com/ArjunSaili1/shopping-cart)
+- [Battleship - a TDD minesweeper/battleship game](https://github.com/ArjunSaili1/battleship)
+- [Spacestagram - a social media site to see the stars](https://github.com/ArjunSaili1/spacestagram)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjunsaili1&label=Profile%20views&color=0e75b6&style=flat" alt="arjunsaili1" /> </p>
-
-- 🌱 I’m currently learning **Node.js, Express, and MongoDB**
-
-- 🏫 I'm attending [The University of Toronto Mississauga](https://www.utm.utoronto.ca/iccit/technology-coding-society-major-tcs)
-
-- 💬 Ask me about [**The Odin Project**](theodinproject.com)
-
-- 📫 How to reach me **arjun7.saili@gmail.com**
-
-- ⚡ Fun fact **I produce music! Check out [Astra Productions on Spotify](https://open.spotify.com/artist/1OGUvUFNtSBesGNM5j9VSp).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
