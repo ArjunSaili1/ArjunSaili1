@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/66842156/171411759-ec5c879e-108a-41d2-8fae-f91c13eb88da.jpg"/>
+
 
 <h1>Arjun Saili</h1>
 <h3>About</h3>
