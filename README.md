@@ -2,7 +2,7 @@
 
 <h1>Arjun Saili</h1>
 <h3>About</h3>
-<p> I'm a web developer whose been self teaching myself programming since May 2021 using <a href=https://www.theodinproject.com/>The Odin Project curriculum</a>. I'm currently also pursing a Honour's Bachelor of Arts with a double major in Technology, Coding, Society and Communications, Culture and Information Technology with a minor in Computer Science <i>(I know that's quite a long program name!)</i>. I've honed my skills in front end development to create many projects using the React JavaScript framework and I'm currently learning Backend development using the Node.js Express framework and the MongoDB database. I'm also contributing towards bettering <a href=https://github.com/TheOdinProject/curriculum>The Odin Project curriculum on GitHub</a>.
+<p> I'm a web developer whose been self teaching myself programming since May 2021 using <a href=https://www.theodinproject.com/>The Odin Project curriculum</a>. I'm currently also pursing a Honour's Bachelor of Science majoring in Geographical Information Systems and Communication, Culture and IT and minoring in Computer Science <i>(I know that's quite a long program name!)</i>. I've honed my skills in front end development to create many projects using the React JavaScript framework and I'm currently learning Backend development using the Node.js Express framework and the MongoDB database. I'm also contributing towards bettering <a href=https://github.com/TheOdinProject/curriculum>The Odin Project curriculum on GitHub</a>.
 
 <h3>I'm currently working on...</h3>
 <a href="https://github.com/ArjunSaili1/inventory-app">MealBook - Find your favourite cuisines, meals and ingredients with this inventory logging app</a>
