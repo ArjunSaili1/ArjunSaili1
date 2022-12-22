@@ -1,12 +1,18 @@
 
 
 <h1>Arjun Saili</h1>
-<h3>About</h3>
-<p> I'm a web developer whose been self teaching myself programming since May 2021 using <a href=https://www.theodinproject.com/>The Odin Project curriculum</a>. I'm currently also pursing a Honour's Bachelor of Science majoring in Geographical Information Systems and Communication, Culture and IT and minoring in Computer Science <i>(I know that's quite a long program name!)</i>. I've honed my skills in front end development to create many projects using the React JavaScript framework and I'm currently learning Backend development using the Node.js Express framework and the MongoDB database. I'm also contributing towards bettering <a href=https://github.com/TheOdinProject/curriculum>The Odin Project curriculum on GitHub</a>.
+<h3>About Me</h3>
+<p>My life has been a series of seemingly contrary paths, yet I have come to realize that these paths are more interconnected than I could have ever imagined. 
 
-<h3>I'm currently working on...</h3>
-<a href="https://github.com/ArjunSaili1/inventory-app">MealBook - Find your favourite cuisines, meals and ingredients with this inventory logging app</a>
+Growing up, I was always creative with a natural curiosity for understanding the inner workings of technology. I chose to pursue a career in software engineering and without knowing what I was getting myself into, I dove in head first during my first year of University. 
 
+It wasn’t easy. I struggled to keep up and felt like I was out of my depth. So I spent a year away from my studies and it was during this time that I had a revelation. 
+
+At first, I was a bit lost, but as I explored different aspects of the field, I gradually realized how passionate I was about software engineering. I started to build projects and through this process, I found an entirely new creative outlet. 
+
+I realized that software engineering is the perfect blend of creativity and problem-solving. It has allowed me to explore my ideas and learn how to bring them to life. 
+
+Now, I'm confidently pursuing a software engineering intern position for Summer 2023, and I'm ready to learn, create and show the world what I'm capable of. I'm excited about this journey and the challenges that come along with it.</p>
 <h3>My Favourite Projects</h3>
 
 - [Birdhouse - an AirBnB clone](https://github.com/ArjunSaili1/airbnb-clone)
