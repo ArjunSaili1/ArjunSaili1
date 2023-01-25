@@ -1,7 +1,6 @@
 
 
 <h1>Arjun Saili</h1>
-<h3>About Me</h3>
 <h3>My Favourite Projects</h3>
 
 - [Birdhouse - an AirBnB clone](https://github.com/ArjunSaili1/airbnb-clone)
