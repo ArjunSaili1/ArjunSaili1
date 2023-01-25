@@ -2,17 +2,6 @@
 
 <h1>Arjun Saili</h1>
 <h3>About Me</h3>
-<p>My life has been a series of seemingly contrary paths, yet I have come to realize that these paths are more interconnected than I could have ever imagined. 
-
-Growing up, I was always creative with a natural curiosity for understanding the inner workings of technology. I chose to pursue a career in software engineering and without knowing what I was getting myself into, I dove in head first during my first year of University. 
-
-It wasn’t easy. I struggled to keep up and felt like I was out of my depth. So I spent a year away from my studies and it was during this time that I had a revelation. 
-
-At first, I was a bit lost, but as I explored different aspects of the field, I gradually realized how passionate I was about software engineering. I started to build projects and through this process, I found an entirely new creative outlet. 
-
-I realized that software engineering is the perfect blend of creativity and problem-solving. It has allowed me to explore my ideas and learn how to bring them to life. 
-
-Now, I'm confidently pursuing a software engineering intern position for Summer 2023, and I'm ready to learn, create and show the world what I'm capable of. I'm excited about this journey and the challenges that come along with it.</p>
 <h3>My Favourite Projects</h3>
 
 - [Birdhouse - an AirBnB clone](https://github.com/ArjunSaili1/airbnb-clone)
